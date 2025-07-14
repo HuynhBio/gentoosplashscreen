@@ -37,7 +37,7 @@ Rectangle {
 
             anchors.centerIn: parent
 
-            source: "images/archlogo.png"
+            source: "images/gentoo.png"
 
             sourceSize.width: size
             sourceSize.height: size
